@@ -1,0 +1,19 @@
+.fa-twitter {
+	color: lightblue;
+}
+
+.contact {
+	text-align: left;
+	line-height: 120%;
+}
+.contact i {
+	display: inline-block;
+	padding-right: 10px;
+}
+
+#background-wp {
+	position: fixed;
+	left: 10px;
+	bottom: 10px;
+	z-index: 9999;
+}
